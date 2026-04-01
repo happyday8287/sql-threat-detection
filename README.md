@@ -35,3 +35,12 @@ Analyze login activity using SQL to identify suspicious behavior and potential s
 ### Investigation Result
 <img width="927" height="640" alt="sql-investigation-result" src="https://github.com/user-attachments/assets/601837e4-d4e3-4fa9-83bf-577fa36f49d6" />
 
+## Key Takeaways
+
+* SQL can be used to detect suspicious login behavior
+* Repeated failed logins may indicate brute-force attacks
+* Simple queries can help identify security threats
+
+## Conclusion
+
+This project demonstrates how basic SQL queries can be used to analyze security logs and detect potential threats such as brute-force attacks.
