@@ -19,7 +19,6 @@ Analyze login activity using SQL to identify suspicious behavior and potential s
 ## Tools Used
 
 * SQL (SQLite)
-* GitHub
 
 ## What I Learned
 
