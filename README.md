@@ -29,7 +29,9 @@ Analyze login activity using SQL to identify suspicious behavior and potential s
 ## Screenshot
 
 ### Detection Result
-<img width="1439" height="651" alt="sql-failed-logins" src="https://github.com/user-attachments/assets/70efeb73-c219-49bc-9724-28ca703f66e8" />
+<img width="1040" height="434" alt="sql-detection-result" src="https://github.com/user-attachments/assets/e15920fb-11fd-4fb5-877a-54c5cb516a93" />
+
 
 ### Investigation Result
-<img width="927" height="640" alt="sql-investigation-result" src="https://github.com/user-attachments/assets/38aaa03a-67fe-4032-a7b2-da476daef61d" />
+<img width="927" height="640" alt="sql-investigation-result" src="https://github.com/user-attachments/assets/601837e4-d4e3-4fa9-83bf-577fa36f49d6" />
+
